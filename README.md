@@ -14,7 +14,6 @@
 
 ## 👩🏽‍💻 About Me
 
-- 🎓 Computer Programming (Level 6) student at **Borabu Technical Training Institute**
 - 🌐 I design and build responsive, user-friendly web applications, from the interface to the database
 - 🧱 Strong in **object-oriented programming** and clean, maintainable code
 - 🚀 Currently building real-world websites for organisations and growing my full-stack skills
