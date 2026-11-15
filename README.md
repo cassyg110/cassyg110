@@ -84,8 +84,9 @@ A complete multi-page website for the **East Africa Agritech Youth Network**, a 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cassyg110&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassyg110&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/cassyg110?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/cassyg110?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=cassyg110&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
