@@ -77,7 +77,7 @@ A complete multi-page website for the **East Africa Agritech Youth Network**, a 
 
 **Built with:** `HTML` `CSS` `JavaScript` `Tailwind`
 
-🔗 [Live Demo](https://eaayn-site.vercel.appK) · 💻 [Source Code](https://github.com/cassyg110/eaayn-site)
+🔗 [Live Demo](https://eaayn-site.vercel.app) · 💻 [Source Code](https://github.com/cassyg110/eaayn-site)
 
 ---
 
